@@ -86,4 +86,4 @@ The task provides hands-on experience with real-world datasets and strengthens u
 
 Output
 
-<img width="1919" height="1017" alt="Image" src="https://github.com/user-attachments/assets/3b595e39-1e7b-4ba2-b457-6e3afa5774b6" />
+<img width="1919" height="1020" alt="Image" src="https://github.com/user-attachments/assets/8769e568-7d04-4f63-95ca-b2aaee47a481" />
